@@ -9,6 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // NOTES:
+    // -- Building this demo app just to try out local Git SCM via XCode
+    // -- About to make my first 'commit' -- I think
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
