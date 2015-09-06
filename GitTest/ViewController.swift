@@ -14,6 +14,9 @@ class ViewController: UIViewController {
     // -- Building this demo app just to try out local Git SCM via XCode
     // -- About to make my first 'commit' -- I think
     
+    // NEW NOTES:
+    // -- Adding these notes via GitHub editor; will try to pull via Xcode
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
